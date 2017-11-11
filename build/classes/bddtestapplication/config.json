@@ -1,0 +1,12 @@
+[
+    {
+        "url":"jdbc:mysql://localhost:3306/APP",
+        "user":"root",
+        "password":""
+    },
+    {  
+        "url":"jdbc:derby://localhost:1527/tpDataBase",
+        "user":"",
+        "password":""
+    }
+]
